@@ -1,5 +1,7 @@
 # sticky Notes
 
+![Sticky Notes preview](screenshots/preview.png)
+
 Paper sticky notes that live at the edge of your Windows screen.
 
 - A slim pill sits on the screen edge, one coloured dash per note.
